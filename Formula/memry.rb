@@ -1,8 +1,8 @@
 class Memry < Formula
   desc "Log in to memry and wire its memory MCP into Claude Code"
   homepage "https://github.com/mrtheroi/memry-cli"
-  url "https://github.com/mrtheroi/memry-cli/releases/download/v0.2.1/memry.phar"
-  sha256 "f9938f08254f276dd2f7026eccc9dcf3655d6c0c87c3dc4bac1110d5795fb7a8"
+  url "https://github.com/mrtheroi/memry-cli/releases/download/v0.3.0/memry.phar"
+  sha256 "55cc35c25bc70bb851b085381c22037654466ef13caae2c31cb9b20a15043db2"
   license "MIT"
 
   depends_on "php"
