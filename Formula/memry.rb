@@ -5,23 +5,23 @@ class Memry < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/mrtheroi/memry-cli/releases/download/v1.1.2/memry_1.1.2_darwin_arm64.tar.gz"
-      sha256 "163420e93f65b917b27e3429affc94ec39bd4caf8b818e83a0bc3398d5d9a6d0"
+      url "https://github.com/mrtheroi/memry-cli/releases/download/v1.1.3/memry_1.1.3_darwin_arm64.tar.gz"
+      sha256 "31d15f738cea1ec9c59cd169a7ec0b890b57196d7d36b6f86e7d12f9e3a88592"
     end
     on_intel do
-      url "https://github.com/mrtheroi/memry-cli/releases/download/v1.1.2/memry_1.1.2_darwin_amd64.tar.gz"
-      sha256 "7c9a1da24f51fba578ad1a596449d7a31156493926ef98a5a7154aff7d036c0e"
+      url "https://github.com/mrtheroi/memry-cli/releases/download/v1.1.3/memry_1.1.3_darwin_amd64.tar.gz"
+      sha256 "71dfd1cf02572393a291ad0ab4ef0998aa6c2a014c2c0e942bd5b1402004940f"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/mrtheroi/memry-cli/releases/download/v1.1.2/memry_1.1.2_linux_arm64.tar.gz"
-      sha256 "004a951c5a042b147128db6465f38e17ff22cb788b0c6c15bc5c1236a5c0ccc7"
+      url "https://github.com/mrtheroi/memry-cli/releases/download/v1.1.3/memry_1.1.3_linux_arm64.tar.gz"
+      sha256 "ef004f4efcce94d67838ea836ba57b2884c0e405a7fab82b2046a7fa5bc9a88b"
     end
     on_intel do
-      url "https://github.com/mrtheroi/memry-cli/releases/download/v1.1.2/memry_1.1.2_linux_amd64.tar.gz"
-      sha256 "61e4b73a69de354d738b733057321e3a61f76e361fb607d4d6584c7a44f82b56"
+      url "https://github.com/mrtheroi/memry-cli/releases/download/v1.1.3/memry_1.1.3_linux_amd64.tar.gz"
+      sha256 "e89dd76a9c8c4c4518765138bc0be6dc5e13f5bc44fd9f1a71feb09f54b9a88d"
     end
   end
 
